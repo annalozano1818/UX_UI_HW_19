@@ -106,7 +106,7 @@ footer li {
   grid-area: content3;
 }
 
-#my-work {
+#my-work-container {
   display: flex;
   justify-content: center;
 }
